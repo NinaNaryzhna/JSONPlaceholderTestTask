@@ -9,7 +9,7 @@
 * IDE (VScode, Webstorm)
 ## Getting started
 * to get started with the project - first clone the repo by opening the terminal in your IDE and run:
-    * `git clone https://github.com/NinaNaryzhna/JSONPlaceholderTetsTask.git`
+    * `git clone https://github.com/NinaNaryzhna/JSONPlaceholderTestTask.git`
 ## Installing dependencies and Playwright
 * after cloning the repo - navigate to the root directory:
     * `cd JSONPlaceholderTetsTask`
